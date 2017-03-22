@@ -82,7 +82,7 @@
 	}
 
 .button:hover{
-	box-shadow: 1.2em .5em 1em #FFC107;
+	box-shadow: 1.2em .5em 1em black;
 	transform: translateX(40px);
 	transition: 3s;
 	}
